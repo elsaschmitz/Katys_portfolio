@@ -1,0 +1,29 @@
+Color 1
+  r: 255
+  g: 117
+  b: 233
+ HEX ff7se9
+
+Color 2
+  r: 179
+  g: 91
+  b: 232
+ HEX b35be8
+
+Color 3
+  r: 111
+  g: 84
+  b: 255
+ HEX 6fs4ff
+
+Color 4
+  r: 48
+  g: 103
+  b: 232
+ HEX 3067e8
+
+Color 5
+  r: 19
+  g: 195
+  b: 255
+ HEX 13c3ff
